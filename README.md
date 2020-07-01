@@ -1,0 +1,2 @@
+# SmartThingsPublic
+Samsung SmartThings projects
